@@ -10,10 +10,10 @@ Handle g_FF;
 public Plugin myinfo =
 {
 	name 			= "AbNeR Remove Bullet Impact",
-	author 			= "AbNeR @CSB",
+	author 			= "abnerfs",
 	description 	= "Remove bullet impact in teammates when FF is off.",
 	version 		= PLUGIN_VERSION,
-	url 			= "www.tecnohardclan.com/forum"
+	url 			= "https://github.com/abnerfs"
 }
 
 public void OnPluginStart()
